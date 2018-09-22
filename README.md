@@ -1,2 +1,1 @@
-# rize-backend-api
-# rize-backend-api
+# sample code
